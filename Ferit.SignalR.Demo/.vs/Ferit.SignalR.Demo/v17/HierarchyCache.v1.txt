@@ -1,0 +1,308 @@
+﻿++Solution 'Ferit.SignalR.Demo' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Ferit.SignalR.Demo.sln
+++Ferit.SignalR.Demo
+i:{00000000-0000-0000-0000-000000000000}:Ferit.SignalR.Demo
+++Connected Services 
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141893
+++Dependencies
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141892
+++Properties
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\
+++wwwroot
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\wwwroot\
+++ClientApp
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\
+++dist
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\
+++e2e
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\
+++src
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\src\
+++app
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\
+++home
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\home\
+++home.component.css
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\home\home.component.css
+++home.component.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\home\home.component.html
+++home.component.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\home\home.component.ts
+++nav-menu
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\nav-menu\
+++app.component.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\app.component.html
+++app.component.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\app.component.ts
+++app.module.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\app.module.ts
+++app.server.module.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\app.server.module.ts
+++assets
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\assets\
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\assets\
+++environments
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\environments\
+++environment.local.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\environments\environment.local.ts
+++environment.prod.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\environments\environment.prod.ts
+++environment.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\environments\environment.ts
+++models
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\
+++Constants.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\constants.ts
+++DrawField.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\drawfield.ts
+++FieldState.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\fieldstate.ts
+++PlayerState.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\playerstate.ts
+++RoomDetails.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\roomdetails.ts
+++RoomState.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\roomstate.ts
+++SnakeColors.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\snakecolors.ts
+++SnakeDirection.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\snakedirection.ts
+++User.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\models\user.ts
+++services
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\services\
+++signalr.service.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\services\signalr.service.ts
+++index.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\index.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\index.html
+++karma.conf.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\karma.conf.js
+++main.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\main.ts
+++polyfills.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\polyfills.ts
+++styles.css
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\styles.css
+++tsconfig.app.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\tsconfig.app.json
+++tsconfig.server.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\tsconfig.server.json
+++tsconfig.spec.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\tsconfig.spec.json
+++tslint.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\tslint.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\tslint.json
+++.editorconfig
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\.editorconfig
+++.gitignore
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\.gitignore
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\.gitignore
+++angular.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\angular.json
+++browserslist
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\browserslist
+++package.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\package.json
+++package-lock.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\package-lock.json
+++README.md
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\readme.md
+++tsconfig.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\tsconfig.json
+++Enums
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\enums\
+++FieldState.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\enums\fieldstate.cs
+++PlayerGameState.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\enums\playergamestate.cs
+++SnakeColors.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\enums\snakecolors.cs
+++SnakeDirection.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\enums\snakedirection.cs
+++Hubs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\hubs\
+++DemoHub.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\hubs\demohub.cs
+++Models
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\
+++Fields
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\fields\
+++DrawField.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\fields\drawfield.cs
+++Field.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\fields\field.cs
+++GameField.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\fields\gamefield.cs
+++FoodState.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\foodstate.cs
+++GameConstants.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\gameconstants.cs
+++GameRoom.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\gameroom.cs
+++Player.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\player.cs
+++PlayerState.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\playerstate.cs
+++RoomDetails.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\roomdetails.cs
+++RoomsContainer.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\roomscontainer.cs
+++RoomState.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\roomstate.cs
+++Snake.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\snake.cs
+++User.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\user.cs
+++UsersContainer.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\models\userscontainer.cs
+++Pages
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\pages\
+++Services
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\services\
+++appsettings.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\appsettings.json
+++Program.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\program.cs
+++Startup.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\startup.cs
+++web.config
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\web.config
+++No service dependencies discovered
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141894
+++Analyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:analyzers
+++Frameworks
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:frameworks
+++Packages
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:packages
+++PublishProfiles
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\
+++ServiceDependencies
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies\
+++launchSettings.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\launchsettings.json
+++serviceDependencies.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies.json
+++favicon.ico
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\wwwroot\favicon.ico
+++3rdpartylicenses.txt
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\3rdpartylicenses.txt
+++main-es2018.2b7924443139d55d3a7a.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\main-es2018.2b7924443139d55d3a7a.js
+++main-es2018.2b7924443139d55d3a7a.js.LICENSE.txt
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\main-es2018.2b7924443139d55d3a7a.js.license.txt
+++main-es5.2b7924443139d55d3a7a.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\main-es5.2b7924443139d55d3a7a.js
+++polyfills-es2018.ffa9bb4e015925544f91.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\polyfills-es2018.ffa9bb4e015925544f91.js
+++polyfills-es2018.ffa9bb4e015925544f91.js.LICENSE.txt
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\polyfills-es2018.ffa9bb4e015925544f91.js.license.txt
+++polyfills-es5.026233df937cbf728097.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\polyfills-es5.026233df937cbf728097.js
+++polyfills-es5-es2018.026233df937cbf728097.js.LICENSE.txt
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\polyfills-es5-es2018.026233df937cbf728097.js.license.txt
+++runtime-es2018.ea61391d73fc0a3481ca.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\runtime-es2018.ea61391d73fc0a3481ca.js
+++runtime-es5.ea61391d73fc0a3481ca.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\runtime-es5.ea61391d73fc0a3481ca.js
+++styles.2d7af81dec6e33ba75de.css
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\styles.2d7af81dec6e33ba75de.css
+++protractor.conf.js
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\protractor.conf.js
+++tsconfig.e2e.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\tsconfig.e2e.json
+++nav-menu.component.css
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\nav-menu\nav-menu.component.css
+++nav-menu.component.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\nav-menu\nav-menu.component.html
+++nav-menu.component.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\nav-menu\nav-menu.component.ts
+++.gitkeep
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\assets\.gitkeep
+++_ViewImports.cshtml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\pages\_viewimports.cshtml
+++Error.cshtml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\pages\error.cshtml
+++appsettings.Development.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\microsoft.netcore.app
+++LiteDB (5.0.11)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141905
+++Microsoft.AspNet.SignalR.Core (2.4.3)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141907
+++Microsoft.AspNetCore.SpaServices.Extensions (5.0.14)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141911
+++Microsoft.Azure.SignalR (1.4.0)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141909
+++Serilog (2.10.0)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141912
+++Serilog.AspNetCore (5.0.0)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141906
+++Serilog.Settings.Configuration (3.3.0)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141913
+++Serilog.Sinks.Console (4.0.1)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141908
+++Serilog.Sinks.File (5.0.0)
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:>141910
+++ferit-signalr-test - Web Deploy.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\ferit-signalr-test - web deploy.pubxml
+++ferit-signalr-test - Web Deploy1.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\ferit-signalr-test - web deploy1.pubxml
+++FolderProfile.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\folderprofile.pubxml
+++zmija - FTP.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\zmija - ftp.pubxml
+++zmija - Web Deploy.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\zmija - web deploy.pubxml
+++zmija - Zip Deploy.pubxml
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\publishprofiles\zmija - zip deploy.pubxml
+++ferit-signalr-test - Web Deploy
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies\ferit-signalr-test - web deploy\
+++ferit-signalr-test - Web Deploy1
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies\ferit-signalr-test - web deploy1\
+++serviceDependencies.ferit-signalr-test - Web Deploy1.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies.ferit-signalr-test - web deploy1.json
+++constraints
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\assets\constraints\
+++app.e2e-spec.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\src\app.e2e-spec.ts
+++app.po.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\e2e\src\app.po.ts
+++Error.cshtml.cs
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\pages\error.cshtml.cs
+++profile.arm.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies\ferit-signalr-test - web deploy\profile.arm.json
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\properties\servicedependencies\ferit-signalr-test - web deploy1\profile.arm.json
+++app.constants.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\dist\assets\constraints\app.constants.ts
+++NewFolder
+++Game
+++game.component.css
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\game\game.component.css
+++game.component.html
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\game\game.component.html
+++game.component.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\game\game.component.ts
+++Helpers
+++helpers
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\helpers\
+++game
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\game\
+++drawhelper.cs
+++drawhelper.ts
+i:{23db6207-e96b-4791-b6a6-305db517d9e3}:c:\users\luka\desktop\ferit.signalr.demo\ferit.signalr.demo\clientapp\src\app\helpers\drawhelper.ts

@@ -1,0 +1,67 @@
+::ng-deep .mat-horizontal-stepper-header {
+  display: none !important;
+}
+
+::ng-deep .mat-horizontal-stepper-header-container {
+  display: none !important;
+}
+
+::ng-deep .mat-horizontal-stepper-content {
+  display: flex;
+  justify-content: center;
+}
+
+::ng-deep .mat-select-content {
+  width: 2000px;
+  background-color: red;
+  font-size: 10px;
+}
+
+.table-container {
+  width: 100%;
+}
+
+.room-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-input {
+  background-color: yellow; /* Added this to check it was working*/
+  min-height: 85vh;
+}
+
+.input-room-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+  gap: 1em;
+  align-items: center;
+}
+
+.mat-select-panel {
+  background: red;
+}
+
+.title {
+  text-align: center;
+  font-weight: 100;
+}
+
+.example-container .mat-form-field + .mat-form-field {
+  margin-left: 8px;
+}
+
+.form-label {
+  font-size: 0.8em;
+  font-weight: bold;
+  line-height: 1em;
+  letter-spacing: 0em;
+  margin: 0 0 0.375em 0;
+}
+
+.noroom-label {
+  text-align: center;
+  margin: 0.5em;
+}
