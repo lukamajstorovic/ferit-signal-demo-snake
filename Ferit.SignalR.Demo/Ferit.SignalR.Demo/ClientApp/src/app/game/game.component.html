@@ -1,0 +1,38 @@
+<mat-grid-list cols="4" rows rowHeight="90vh" (window:resize)="onResize()">
+
+  <mat-grid-tile [colspan]="3">
+    <canvas class="game-canvas" #canvas></canvas>
+  </mat-grid-tile>
+
+
+
+  <mat-grid-tile [colspan]="1">
+    <div class="game-scoreboard">
+
+      <table mat-table [dataSource]="datasource" class="table-container">
+        <!-- Room Column -->
+        <ng-container matColumnDef="name">
+          <th mat-header-cell *matHeaderCellDef>Name</th>
+          <td mat-cell
+              *matCellDef="let element"
+              [ngStyle]="{ color: colorsEnum[element.color] }">
+            {{ element.name }}
+          </td>
+        </ng-container>
+
+        <!-- Score Column -->
+        <ng-container matColumnDef="score">
+          <th mat-header-cell *matHeaderCellDef>Score</th>
+          <td mat-cell *matCellDef="let element">{{ element.score }}</td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+
+      </table>
+
+      <button mat-raised-button color="warn" (click)="navigateToHome()">Leave room</button>
+    </div>
+  </mat-grid-tile>
+
+</mat-grid-list>

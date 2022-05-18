@@ -1,0 +1,17 @@
+.game-canvas {
+  box-shadow: #348C31 0px 0px 2px;
+  border-radius: 2px;
+}
+
+.game-scoreboard {
+  width: 100%;
+}
+
+  .game-scoreboard table {
+    width: 100%;
+  }
+
+  .game-scoreboard button {
+    float: right;
+    margin: 1em;
+  }

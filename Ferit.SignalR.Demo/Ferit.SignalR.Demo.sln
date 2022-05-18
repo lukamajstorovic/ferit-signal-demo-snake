@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferit.SignalR.Demo", "Ferit.SignalR.Demo\Ferit.SignalR.Demo.csproj", "{23DB6207-E96B-4791-B6A6-305DB517D9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DB6207-E96B-4791-B6A6-305DB517D9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DB6207-E96B-4791-B6A6-305DB517D9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DB6207-E96B-4791-B6A6-305DB517D9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DB6207-E96B-4791-B6A6-305DB517D9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0178B9-87C1-4268-A0C1-4BB2428BD31E}
+	EndGlobalSection
+EndGlobal
